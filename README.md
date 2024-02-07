@@ -33,5 +33,4 @@ For a visual demonstration of the attitude estimation process and its accuracy, 
 
 ![Quaternion-based Attitude Estimation Demo](https://github.com/mayankbansal82/UAV-Attitude-Estimation/blob/main/Result/Result.gif)
 
-Please replace `path/to/demo.gif` with the actual path to your demonstration GIF. This visualization represents the effectiveness and precision of the implemented attitude estimation filters in comparison to the ground truth provided by the Vicon Motion Capture System.
 
